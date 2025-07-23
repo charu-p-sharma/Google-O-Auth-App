@@ -1,0 +1,13 @@
+- This project is about Google login app using MERN Stack.
+
+Google login app creation Steps
+- Google Console Setup (to get the credentials)
+- frontend Setup
+-
+
+
+FRONTEND 
+--------
+- npm i axios
+- npm i @react-oauth/google
+- npm i react-router-dom
