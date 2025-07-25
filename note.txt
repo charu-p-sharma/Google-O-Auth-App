@@ -12,3 +12,17 @@ FRONTEND
 - npm i axios
 - npm i @react-oauth/google
 - npm i react-router-dom
+
+
+
+BACKEND 
+--------
+- create backend folder and do npm init -y
+- npm i axios
+- npm i cors
+- npm i dotenv
+- npm i mongoose
+- npm i nodemon
+- npm i express
+- npm i jsonwebtoken
+- npm i googleapis
