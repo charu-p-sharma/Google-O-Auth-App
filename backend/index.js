@@ -6,7 +6,7 @@ require("./models/dbConnect")
 const authRoutes = require('./routes/authRouter');
 const PORT = process.env.PORT || 5000;
 
-app.use(cors());
+app.use(cors({origin:"*"}));
 
 console.log('typeof authRoutes:', typeof authRoutes);
 
